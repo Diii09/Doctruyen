@@ -1,0 +1,388 @@
+[
+  {
+    "ContainingType": "AppDocTruyen.Controllers.AccountController",
+    "Method": "UpdateRole",
+    "RelativePath": "api/Account/Account/UpdateRole/{IdAcc}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "IdAcc",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "Role",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AppDocTruyen.Controllers.AccountController",
+    "Method": "Create",
+    "RelativePath": "api/Account/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Ten",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Username",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Password",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "TrangThai",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Role",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AppDocTruyen.Controllers.AccountController",
+    "Method": "GetALL",
+    "RelativePath": "api/Account/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[AppDocTruyen.Models.Account, AppDocTruyen, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AppDocTruyen.Controllers.AccountController",
+    "Method": "Update",
+    "RelativePath": "api/Account/Update/Update/{IdAcc}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "IdAcc",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "profile",
+        "Type": "AppDocTruyen.Models.UpdateAccountRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AppDocTruyen.Controllers.ChuongController",
+    "Method": "Create",
+    "RelativePath": "api/Chuong/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "IDTruyen",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Chuong",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "LinkTruyen",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AppDocTruyen.Controllers.ChuongController",
+    "Method": "GetALL",
+    "RelativePath": "api/Chuong/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[AppDocTruyen.Models.Chuong, AppDocTruyen, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AppDocTruyen.Controllers.ChuongController",
+    "Method": "Update",
+    "RelativePath": "api/Chuong/Update/Update/{IDChuong}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "IDChuong",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "IDTruyen",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Chuong",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "LinkTruyen",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AppDocTruyen.Controllers.TheLoaiController",
+    "Method": "Create",
+    "RelativePath": "api/TheLoai/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "TenTheLoai",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AppDocTruyen.Controllers.TheLoaiController",
+    "Method": "GetALL",
+    "RelativePath": "api/TheLoai/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[AppDocTruyen.Models.TheLoai, AppDocTruyen, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AppDocTruyen.Controllers.TheLoaiController",
+    "Method": "Update",
+    "RelativePath": "api/TheLoai/Update/Update/{IdTheLoai}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "IdTheLoai",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "TenTheLoai",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AppDocTruyen.Controllers.TruyenController",
+    "Method": "Create",
+    "RelativePath": "api/Truyen/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "TenTruyen",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "IDTheLoai",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "IdAccount",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AppDocTruyen.Controllers.TruyenController",
+    "Method": "GetALL",
+    "RelativePath": "api/Truyen/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[AppDocTruyen.Models.Truyen, AppDocTruyen, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AppDocTruyen.Controllers.TruyenController",
+    "Method": "Update",
+    "RelativePath": "api/Truyen/Update/Update/{IDTruyen}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "IDTruyen",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "TenTruyen",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "IdTheLoai",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "IdAccount",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AppDocTruyen.Controllers.YeuThichController",
+    "Method": "Create",
+    "RelativePath": "api/YeuThich/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "IDTruyen",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AppDocTruyen.Controllers.YeuThichController",
+    "Method": "GetALL",
+    "RelativePath": "api/YeuThich/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[AppDocTruyen.Models.YeuThich, AppDocTruyen, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AppDocTruyen.Controllers.YeuThichController",
+    "Method": "Update",
+    "RelativePath": "api/YeuThich/Update/Update/{IdYeuThich}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "IdYeuThich",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "IDTruyen",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AppDocTruyen.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[AppDocTruyen.WeatherForecast, AppDocTruyen, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

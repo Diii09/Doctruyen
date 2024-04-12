@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\AppDocTruyen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF50349-49AB-4B04-BD61-663054F037D5}|AppDocTruyen.csproj|c:\\users\\admin\\source\\repos\\appdoctruyen\\controllers\\truyencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF50349-49AB-4B04-BD61-663054F037D5}|AppDocTruyen.csproj|solutionrelative:controllers\\truyencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF50349-49AB-4B04-BD61-663054F037D5}|AppDocTruyen.csproj|c:\\users\\admin\\source\\repos\\appdoctruyen\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF50349-49AB-4B04-BD61-663054F037D5}|AppDocTruyen.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF50349-49AB-4B04-BD61-663054F037D5}|AppDocTruyen.csproj|c:\\users\\admin\\source\\repos\\appdoctruyen\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF50349-49AB-4B04-BD61-663054F037D5}|AppDocTruyen.csproj|solutionrelative:models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF50349-49AB-4B04-BD61-663054F037D5}|AppDocTruyen.csproj|c:\\users\\admin\\source\\repos\\appdoctruyen\\models\\truyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF50349-49AB-4B04-BD61-663054F037D5}|AppDocTruyen.csproj|solutionrelative:models\\truyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF50349-49AB-4B04-BD61-663054F037D5}|AppDocTruyen.csproj|c:\\users\\admin\\source\\repos\\appdoctruyen\\controllers\\chuongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF50349-49AB-4B04-BD61-663054F037D5}|AppDocTruyen.csproj|solutionrelative:controllers\\chuongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF50349-49AB-4B04-BD61-663054F037D5}|AppDocTruyen.csproj|c:\\users\\admin\\source\\repos\\appdoctruyen\\models\\chuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF50349-49AB-4B04-BD61-663054F037D5}|AppDocTruyen.csproj|solutionrelative:models\\chuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF50349-49AB-4B04-BD61-663054F037D5}|AppDocTruyen.csproj|c:\\users\\admin\\source\\repos\\appdoctruyen\\controllers\\theloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF50349-49AB-4B04-BD61-663054F037D5}|AppDocTruyen.csproj|solutionrelative:controllers\\theloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF50349-49AB-4B04-BD61-663054F037D5}|AppDocTruyen.csproj|c:\\users\\admin\\source\\repos\\appdoctruyen\\controllers\\yeuthichcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF50349-49AB-4B04-BD61-663054F037D5}|AppDocTruyen.csproj|solutionrelative:controllers\\yeuthichcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF50349-49AB-4B04-BD61-663054F037D5}|AppDocTruyen.csproj|c:\\users\\admin\\source\\repos\\appdoctruyen\\models\\theloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF50349-49AB-4B04-BD61-663054F037D5}|AppDocTruyen.csproj|solutionrelative:models\\theloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF50349-49AB-4B04-BD61-663054F037D5}|AppDocTruyen.csproj|c:\\users\\admin\\source\\repos\\appdoctruyen\\models\\yeuthich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF50349-49AB-4B04-BD61-663054F037D5}|AppDocTruyen.csproj|solutionrelative:models\\yeuthich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF50349-49AB-4B04-BD61-663054F037D5}|AppDocTruyen.csproj|c:\\users\\admin\\source\\repos\\appdoctruyen\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AFF50349-49AB-4B04-BD61-663054F037D5}|AppDocTruyen.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChuongController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\AppDocTruyen\\Controllers\\ChuongController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ChuongController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\AppDocTruyen\\Controllers\\ChuongController.cs",
+              "RelativeToolTip": "Controllers\\ChuongController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwEcAAACmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T05:11:20.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TheLoaiController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\AppDocTruyen\\Controllers\\TheLoaiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TheLoaiController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\AppDocTruyen\\Controllers\\TheLoaiController.cs",
+              "RelativeToolTip": "Controllers\\TheLoaiController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAswEIAAACCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T14:39:57.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Chuong.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\AppDocTruyen\\Models\\Chuong.cs",
+              "RelativeDocumentMoniker": "Models\\Chuong.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\AppDocTruyen\\Models\\Chuong.cs",
+              "RelativeToolTip": "Models\\Chuong.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T06:06:16.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\AppDocTruyen\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "Models\\Account.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\AppDocTruyen\\Models\\Account.cs",
+              "RelativeToolTip": "Models\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T06:07:49.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TheLoai.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\AppDocTruyen\\Models\\TheLoai.cs",
+              "RelativeDocumentMoniker": "Models\\TheLoai.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\AppDocTruyen\\Models\\TheLoai.cs",
+              "RelativeToolTip": "Models\\TheLoai.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T06:05:46.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TruyenController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\AppDocTruyen\\Controllers\\TruyenController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TruyenController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\AppDocTruyen\\Controllers\\TruyenController.cs",
+              "RelativeToolTip": "Controllers\\TruyenController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwEkAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T03:53:34.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Truyen.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\AppDocTruyen\\Models\\Truyen.cs",
+              "RelativeDocumentMoniker": "Models\\Truyen.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\AppDocTruyen\\Models\\Truyen.cs",
+              "RelativeToolTip": "Models\\Truyen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T03:31:29.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\AppDocTruyen\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\AppDocTruyen\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAgwEsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T14:42:50.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "YeuThichController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\AppDocTruyen\\Controllers\\YeuThichController.cs",
+              "RelativeDocumentMoniker": "Controllers\\YeuThichController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\AppDocTruyen\\Controllers\\YeuThichController.cs",
+              "RelativeToolTip": "Controllers\\YeuThichController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwEQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T05:21:49.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "YeuThich.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\AppDocTruyen\\Models\\YeuThich.cs",
+              "RelativeDocumentMoniker": "Models\\YeuThich.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\AppDocTruyen\\Models\\YeuThich.cs",
+              "RelativeToolTip": "Models\\YeuThich.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T03:35:37.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\AppDocTruyen\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\AppDocTruyen\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-11T14:38:05.821Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
