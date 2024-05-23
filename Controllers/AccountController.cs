@@ -16,7 +16,7 @@ namespace AppDocTruyen.Controllers
         {
             _configuration = config;
         }
-        [HttpGet]
+        [HttpGet]   
         [Route("GetAll")]
         public List<Account> GetALL()
         {
@@ -105,6 +105,39 @@ namespace AppDocTruyen.Controllers
             }
 
     }
+
+        [HttpPost("Login")]
+        public IActionResult Login([FromBody] LoginRequest login)
+        {
+            try
+            {
+                SqlConnection con = new SqlConnection(_configuration.GetConnectionString("AppTruyen"));
+                SqlCommand cmd = new SqlCommand("SELECT * FROM Account WHERE username=@username AND pwAccount=@password", con);
+                cmd.Parameters.AddWithValue("@username", login.Username);
+                cmd.Parameters.AddWithValue("@password", login.PwAccount);
+
+                SqlDataAdapter da = new SqlDataAdapter(cmd);
+                DataTable dt = new DataTable();
+                da.Fill(dt);
+
+                if (dt.Rows.Count > 0)
+                {
+                    // Đăng nhập thành công
+                    return Ok();
+                }
+                else
+                {
+                    // Đăng nhập thất bại
+                    return Unauthorized();
+                }
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, $"Internal server error: {ex.Message}");
+            }
+        }
+
+
     }
 }
 

@@ -19,4 +19,10 @@
 
     }
 
+    public class LoginRequest
+    {
+        public string Username { get; set; }
+        public string PwAccount { get; set; }
+     
+    }
 }

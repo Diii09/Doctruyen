@@ -6,6 +6,7 @@
         public string TenTruyen { get; set; }
         public int IDTheLoai { get; set; }
         public int IDAccount { get; set; }
+        public string TacGia { get; set; }  
 
     }
 }
